@@ -3,13 +3,14 @@
 
 
 ```
-what am i supposed to write here LOL, anyway check this out
+gh auth login
+gh api --method PUT /user/following/rrayhka
 ```
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rrayhka&theme=dracula&hide_border=true)
 
 > [!TIP]
-> Wash your hands before touching my stuff
+> Tetaplah Mengoding
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habkhyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habkhyar) 
