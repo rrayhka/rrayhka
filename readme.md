@@ -2,6 +2,15 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
+```
+what am i supposed to write here LOL, anyway check this out
+```
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rrayhka&theme=dracula&hide_border=true)
+
+> [!TIP]
+> Wash your hands before touching my stuff
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habkhyar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habkhyar) 
 
