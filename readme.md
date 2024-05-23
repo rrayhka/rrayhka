@@ -3,8 +3,8 @@
 
 
 ```
-gh auth login
-gh api --method PUT /user/following/rrayhka
+git pull
+git push
 ```
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=rrayhka&theme=dracula&hide_border=true)
